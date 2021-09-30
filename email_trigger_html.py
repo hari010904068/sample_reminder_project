@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 sender_email = "reminder.sampproject@gmail.com"
-receiver_email = "Denise.de.Ruijter@ing.com"
+receiver_email = "hari.haran.mk@gmail.com"
 password = input("Type your password and press enter:")
 
 message = MIMEMultipart("alternative")
